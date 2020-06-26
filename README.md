@@ -34,8 +34,9 @@ OS: macOS Catalina (version 10.15.3)
 	* [`17-18.csv`](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/data/17-18.csv): raw data file for the 2017-18 season.
 	* [`18-19.csv`](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/data/18-19.csv): raw data file for the 2018-19 season.
 	* [`19-20.csv`](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/data/19-20.csv): raw data file for the 2019-20 season.
-	* [`clean_data.csv`](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/data/clean_data.csv)
-	* [`feature_eng_data.csv`](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/data/feature_eng_data.csv)
+	* [`clean_data.csv`](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/data/clean_data.csv): all raw data compiled and cleaned
+	* [`feature_eng_data.csv`](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/data/feature_eng_data.csv): preliminary feature engineering on cleaned data
+	* [`table.csv`](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/data/table.csv): accumulated points table generated as a .csv file
 * jupyter_notebooks:
 	* [`analysis.ipynb`](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/jupyter_notebooks/analysis.ipynb)
 	* [`cleaning.ipynb`](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/jupyter_notebooks/cleaning.ipynb)
