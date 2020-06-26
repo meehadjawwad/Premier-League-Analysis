@@ -11,9 +11,8 @@ The data contains a record of 1,808 matches played between 29 clubs, from the st
 
 Due to the concept of promotion and relegation, not all clubs had played an equal amount of matches (fig. 1). To eliminate bias, most analyses were conducted on clubs that had played more or equal to the total average amount of matches played by a club (125).
 
-| <img src='https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/images/games.png' width='1000'> |
+| <img src='https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/images/games.png' width='1500'> |
 | :--: |
 | _Figure 1 - Number of Matches Played_ |
-
 
 
