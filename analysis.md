@@ -1,9 +1,15 @@
 # Data Analysis
 
 ### Table of Contents
-- Explaining the Variables
-- Data Analysis
-	- ABC
+- [Data Exploration](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#data-exploration)
+- [Attack]()
+	- [Goals Scored]()
+	- [Comebacks]()
+- [Defence]()
+	- [Goals Conceded]()
+	- [Clean Sheets]()
+	- [Throw-aways]()
+- [Overall]()
 
 ### Data Exploration
 
@@ -15,4 +21,34 @@ Due to the concept of promotion and relegation, not all clubs had played an equa
 | :--: |
 | _Figure 1 - Number of Matches Played_ |
 
+### Attack
 
+abc
+
+##### Goals Scored
+
+abc
+
+##### Comebacks
+
+abc
+
+### Defence
+
+abc
+
+##### Goals Conceded
+
+abc
+
+##### Clean Sheets
+
+abc
+
+##### Throw-aways
+
+abc
+
+### Overall
+
+abc
