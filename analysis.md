@@ -2,14 +2,14 @@
 
 ### Table of Contents
 - [Data Exploration](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#data-exploration)
-- [Attack]()
-	- [Goals Scored]()
-	- [Comebacks]()
-- [Defence]()
-	- [Goals Conceded]()
-	- [Clean Sheets]()
-	- [Throw-aways]()
-- [Overall]()
+- [Attack](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#attack)
+	- [Goals Scored](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#goals-scored)
+	- [Comebacks](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#comebacks)
+- [Defence](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#defence)
+	- [Goals Conceded](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#goals-conceded)
+	- [Clean Sheets](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#clean-sheets)
+	- [Throw-aways](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#throw-aways)
+- [Overall](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#overall)
 
 ### Data Exploration
 
