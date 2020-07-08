@@ -10,6 +10,8 @@
 	- [Clean Sheets](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#clean-sheets)
 	- [Throw-aways](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#throw-aways)
 - [Overall](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#overall)
+	- [Wins, Draws, and Losses](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#Clusters)
+	- [Clusters](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#Clusters)
 
 ### Data Exploration
 
@@ -170,6 +172,8 @@ Manchester United is the only club which has not thrown away an away game (34 op
 
 ### Overall
 
+#### Wins, Draws, and Losses
+
 The _win, draw, and loss_ percentages are key metrics to judge the performance of a club.
 
 | <img src='https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/images/win_percent.png' width='1000'>|
@@ -192,26 +196,30 @@ Out of the top clubs, Manchester United has the highest draw ratio and Mancheste
 | :--: |
 | _Figure 25 - Accumulated Points Table_ |
 
-#### Top of the Table
+#### Clusters
+
+Based on the Accumulated Points Table (fig. 25), clubs can be divided into various clusters.
+
+**Top of the Table**
 
 Manchester City (with a game in hand) and Liverpool are clearly the two best performing clubs. Their difference of 9 points, comes from Liverpool having drawn more games.
 
-#### Second Cluster
+**Second Cluster**
 
 The next cluster of clubs includes Tottenham, Chelsea, Manchester United, and Arsenal (with a game in hand), with only a difference of 26 points between them. They have all won around 90-100 games and have a goal-difference greater than +100.
 
-#### Third Cluster
+**Third Cluster**
 
 Leicester is the only club in the third cluster. It has broken away from the lower clubs (difference of 29 points), but still not part of the second cluster (difference of 42 points.)
 
-#### Fourth Cluster
+**Fourth Cluster**
 
 Everton is the only club in the fourth cluster. It is 19 points away from the third cluster, and 20 points ahead of the fifth cluster. It is hanging onto a goal-difference of +7.
 
-#### Fifth Cluster
+**Fifth Cluster**
 
 The fifth cluster includes West Ham, Southampton, Crystal Palace, Bournemouth, and Watford. They are separated by a difference of 25 points and have a negative goal-difference.
 
-#### The rest
+**The rest**
 
 The rest of the clubs have played less than the maximum number of games (181), and their performances can be studied in Fig. 15.
