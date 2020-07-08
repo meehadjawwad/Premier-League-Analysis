@@ -10,7 +10,7 @@
 	- [Clean Sheets](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#clean-sheets)
 	- [Throw-aways](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#throw-aways)
 - [Overall](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#overall)
-	- [Wins, Draws, and Losses](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#Clusters)
+	- [Wins, Draws, and Losses](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#wins-draws-and-losses)
 	- [Clusters](https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/analysis.md#Clusters)
 
 ### Data Exploration
