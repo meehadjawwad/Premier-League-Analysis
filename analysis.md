@@ -188,7 +188,7 @@ Manchester City and Liverpool have the highest win ratio (fig. 22) and also the 
 
 Out of the top clubs, Manchester United has the highest draw ratio and Manchester City has the lowest draw ratio (fig. 23).
 
-| <img src='https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/images/table.png' width='1000'>|
+| <img src='https://github.com/meehadjawwad/Premier-League-Analysis/blob/master/images/table.png' width='500'>|
 | :--: |
 | _Figure 25 - Accumulated Points Table_ |
 
