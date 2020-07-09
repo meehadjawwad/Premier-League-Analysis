@@ -2,7 +2,15 @@
 
 ## Aim of the Project
 
-The aim of the project was...
+The aim of the project was to:
+
+- Combine the results of the last five premier league seasons.
+- Analyse clubs' performances in regards to:
+	- Attack metrics
+	- Defence metrics
+	- Overall results
+- Generate an accumulated points table.
+- Identify clusters of clubs based on overall performance.
 
 ## Table of Contents
 
